@@ -5,7 +5,7 @@
     <img alt="GitHub forks" src="https://img.shields.io/github/forks/outmansec/SelfIPManager?style=flat-square">
     <img alt="GitLab Stars" src="https://img.shields.io/github/stars/outmansec/SelfIPManager.svg?style=flat-square">
   </div>
-  <div align="center">一款全平台自有IP地址管理工具</div>
+  <div align="center">一款java开发的全平台自有IP地址管理工具</div>
   <div align="center">
     
   </div>
