@@ -6,11 +6,12 @@
     <img alt="GitLab Stars" src="https://img.shields.io/github/stars/outmansec/SelfIPManager.svg?style=flat-square">
   </div>
   <div align="center">一款全平台自有IP地址管理工具</div>
+  <div style="display: flex; justify-content: center;">
+    <img src="./img/gui.png" width="50%" />
+</div>
 </p>
 
-<div style="text-align: center;">
-    <img src="./img/gui.png" width="70%" />
-</div>
+
 
 <br>
 
