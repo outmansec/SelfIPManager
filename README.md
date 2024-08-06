@@ -22,3 +22,8 @@
 ## 使用实例
 
 [助力攻防演习和我一起解锁新姿势](https://markdown.com.cn)
+
+## 导入模版
+
+[IP地址导入模版](https://github.com/outmansec/SelfIPManager/blob/master/template/ip.csv)
+[IP地址段导入模版](https://github.com/outmansec/SelfIPManager/blob/master/template/subnet.csv)
