@@ -8,7 +8,7 @@
   <div align="center">一款全平台自有IP地址管理工具</div>
 </p>
 
-<img src="./img/gui.png" width="90%"  />
+<img src="./img/gui.png" width="50%"  />
 
 <br>
 
