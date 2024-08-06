@@ -11,7 +11,7 @@
   </div>
 </p>
 
-<div align=center><img src="./img/gui.png" width="50%" /></div>
+<div align=center><img src="./img/gui.png" width="70%" /></div>
 
 <br>
 
