@@ -1,15 +1,15 @@
-<p align="center">
-  <h1 align="center">SelfIPManager</h1>
-  <div align="center">
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/outmansec/SelfIPManager?style=flat-square">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/outmansec/SelfIPManager?style=flat-square">
-    <img alt="GitLab Stars" src="https://img.shields.io/github/stars/outmansec/SelfIPManager.svg?style=flat-square">
+<body>
+  <div style="text-align: center;">
+    <h1>SelfIPManager</h1>
+    <div>
+      <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/outmansec/SelfIPManager?style=flat-square">
+      <img alt="GitHub forks" src="https://img.shields.io/github/forks/outmansec/SelfIPManager?style=flat-square">
+      <img alt="GitLab Stars" src="https://img.shields.io/github/stars/outmansec/SelfIPManager.svg?style=flat-square">
+    </div>
+    <div>一款全平台自有IP地址管理工具</div>
+    <img src="./img/gui.png" width="50%" alt="应用界面预览">
   </div>
-  <div align="center">一款全平台自有IP地址管理工具</div>
-  <img src="./img/gui.png" width="50%" />
-</div>
-</p>
-
+</body>
 
 
 <br>
