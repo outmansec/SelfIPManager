@@ -29,5 +29,3 @@
 
 - [IP地址段导入模版](https://github.com/outmansec/SelfIPManager/blob/master/template/subnet.csv)
 
-## 解锁姿势
-<div align=center><img src="./img/qun.jpg" width="50%" /></div>
